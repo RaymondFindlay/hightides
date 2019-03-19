@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hightides</string>
+    <string name="txt_username">username</string>
+    <string name="txt_password">password</string>
+    <string name="btn_login">login</string>
+    <string name="textView_register">Not registered? Sign up here</string>
+    <string name="txt_register_username">create username</string>
+    <string name="txt_register_password">create password</string>
+    <string name="txt_register_password_confirm">confirm password</string>
+    <string name="btn_register">register</string>
+    <string name="textView_login">Already registered? Login here</string>
+</resources>
